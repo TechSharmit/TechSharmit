@@ -32,10 +32,6 @@
 
 ## 🧑‍💻 About Me
 
-## 🧑‍💻 About Me
-
-**Content Creator at Tech Sharmit • Host of The Tech Sharmit Podcast • Google Developer Expert • 3× IBM Champion • 3x Microsoft MVP • 2x Planet Mainframe Influential Mainframer • #HKHHM**
-
 **Amit Sharma, globally known as Tech Sharmit,** is a passionate technology educator, content creator, and community advocate dedicated to making technology accessible to IT professionals, developers, and students around the world.
 
 Through the **Tech Sharmit** YouTube channel, Amit has built a growing library of **3,000+ videos** covering a broad spectrum of technologies, including **Web Development, Angular, COBOL, IBM i, Mainframe technologies, and programming languages**. His content has reached audiences across **75+ countries**, making Tech Sharmit a trusted destination for practical, educational, and industry-focused technology content.
@@ -46,7 +42,7 @@ As a strong believer in **knowledge sharing, community, and continuous learning*
 
 Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudhaiva Kutumbakam” — the world is one family** — and strives to use technology and knowledge to connect people, inspire learning, and strengthen the global IT community.
 
-**#HKHHM **
+**#HKHHM**
 
 
 <br/>
