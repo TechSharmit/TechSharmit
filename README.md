@@ -49,8 +49,6 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 ## 🏆 Awards & Recognitions
 
-## 🏆 Awards & Recognitions
-
 <div align="center">
 
 <table>
@@ -98,7 +96,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <td align="center" width="250">
 
-### 🟣 Mainframe
+### 🟣 Planet Mainframe
 
 <img src="https://img.shields.io/badge/2%C3%97-Planet%20Mainframe%20Influencer-8E44AD?style=for-the-badge" />
 
@@ -222,11 +220,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <br/>
 
-### 🏅 31 Recognition Instances • 2022–2026
-
-</div>
-
-### 🌟 25+ Recognitions Across 5+ Years
+### 🏅 27 Recognition Instances • 2022–2026
 
 </div>
 
