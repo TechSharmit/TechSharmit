@@ -1,7 +1,16 @@
 <div align="center">
 
-<!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hi%20There,%20I'm%20Amit Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Didn't do a thing, It's all Krishna's Divine Plan!_HERE&descAlignY=55&descSize=18" width="100%"/>
+<table>
+<tr>
+<td width="140">
+  <img src="LOGO_URL_HERE" width="120" />
+</td>
+<td>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hi%20There,%20I'm%20Amit%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Didn%27t%20do%20a%20thing%2C%20It%27s%20all%20Krishna%27s%20Divine%20Plan!&descAlignY=55&descSize=18" width="100%"/>
+</td>
+</tr>
+</table>
+
 
 <!-- Typing animation intro -->
 <a href="https://git.io/typing-svg">
