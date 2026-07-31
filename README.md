@@ -56,9 +56,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <td align="center" width="250">
 
-### 🔵 Google
-
-<img src="https://img.shields.io/badge/2%C3%97-Google%20Developer%20Expert-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+### 🔵 Google Developer Expert
 
 **2-Times Awarded**
 
