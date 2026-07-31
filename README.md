@@ -350,18 +350,6 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 </td>
 
-<td align="center" width="250">
-
-<h1>👁️ 837K+</h1>
-
-<b>Total Channel Views</b>
-
-<br/><br/>
-
-<sub>Growing Global Community</sub>
-
-</td>
-
 </tr>
 </table>
 
