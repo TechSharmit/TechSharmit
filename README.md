@@ -66,6 +66,82 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <br/>
 
+<br/>
+
+## 📚 Tech Sharmit Digital Course Book
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C9A7&height=3&section=header" width="85%"/>
+
+<br/><br/>
+
+<h2>🎓 Expand Your Tech Knowledge!</h2>
+
+<p>
+Explore the <b>#TechSharmitDigitalCourseBook</b> — a growing collection of
+<b>thousands of technology tutorials</b> available in both
+<b>Hindi 🇮🇳</b> and <b>English 🌎</b>.
+</p>
+
+<table>
+<tr>
+
+<td align="center" width="250">
+
+<h2>📚 Thousands</h2>
+
+<b>Technology Tutorials</b>
+
+<br/><br/>
+
+<sub>Practical & Knowledge-Focused Content</sub>
+
+</td>
+
+<td align="center" width="250">
+
+<h2>🇮🇳 Hindi</h2>
+
+<b>Learn in Hindi</b>
+
+<br/><br/>
+
+<sub>Technology Made Accessible</sub>
+
+</td>
+
+<td align="center" width="250">
+
+<h2>🌎 English</h2>
+
+<b>Learn in English</b>
+
+<br/><br/>
+
+<sub>Global Technology Resources</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<a href="https://docs.google.com/spreadsheets/d/1iBvyN-LXWEk8gwk-70dIr-CzrZuKXGqZ0d5dQh64osQ/edit?usp=sharing">
+  <img src="https://img.shields.io/badge/📖%20Explore%20Tech%20Sharmit%20Digital%20Course%20Book-6C63FF?style=for-the-badge&logo=google%20sheets&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>
+🎓 Learn • Build • Explore • Share
+</sub>
+
+</div>
+
+<br/>
+
 <!-- ========================= AWARDS ========================= -->
 
 ## 🏆 Awards & Recognitions
