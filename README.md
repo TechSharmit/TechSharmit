@@ -3,7 +3,10 @@
 <!-- Animated wave banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hi%20There,%20I'm%20Amit Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Didn't do a thing, It's all Krishna's Divine Plan!_HERE&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Typing animation intro --> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=6C63FF&center=true&vCenter=true&width=750&lines=Amit+Sharma+%F0%9F%91%8B;Google+Developer+Expert+%F0%9F%8F%86;IBM+Champion+%7C+Microsoft+MVP;Planet+Mainframe+Influencer;IBM+Advocate+%7C+Contributor+%7C+Influencer;YouTube+%40TechSharmit" alt="Typing SVG" />
+<!-- Typing animation intro -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=FFD700&center=true&vCenter=true&width=750&lines=Amit+Sharma+%F0%9F%91%8B;Recognized+as+a+Google+Developer+Expert+by+Google+%F0%9F%8F%86;Recognized+as+an+IBM+Champion+by+IBM+%F0%9F%8F%86;Recognized+as+a+Microsoft+MVP+by+Microsoft+%F0%9F%8F%86;Recognized+as+a+Planet+Mainframe+Influencer+%F0%9F%8F%86;Recognized+as+an+IBM+Advocate+by+IBM+%F0%9F%8F%86;Recognized+as+an+IBM+Contributor+by+IBM+%F0%9F%8F%86;Recognized+as+an+IBM+Influencer+by+IBM+%F0%9F%8F%86;Recognized+as+an+IBM+i+Community+Influencer+%F0%9F%8F%86;YouTube+%40TechSharmit" alt="Typing SVG" />
+</a>
 
 <br/>
 
