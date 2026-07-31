@@ -375,16 +375,12 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechSharmit&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TechSharmit&theme=tokyonight&hide_border=true" />
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechSharmit&theme=react-dark&hide_border=true" width="100%"/>
-
-</div>
-
-<!-- ========================= FOOTER ========================= -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=120&section=footer" width="100%"/>
 
 </div>
