@@ -230,17 +230,98 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <div align="center">
 
-<div align="center">
 <img src="https://img.shields.io/youtube/channel/subscribers/UC6DAXn2bIqXevIWowUcYE2w?style=for-the-badge&logo=youtube&label=Subscribers&color=red" />
 
 <img src="https://img.shields.io/youtube/channel/views/UC6DAXn2bIqXevIWowUcYE2w?style=for-the-badge&logo=youtube&label=Total%20Views&color=red" />
+
 </div>
+
+<br/>
+
+## 🎙️ The Tech Sharmit Podcast
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="250">
+
+<h1>🎙️ 201+</h1>
+
+<b>Episodes Published</b>
+
 <br/><br/>
 
+<sub>Sharing Technology • Knowledge • Stories</sub>
+
+</td>
+
+<td align="center" width="250">
+
+<h1>🎬 2+</h1>
+
+<b>Podcast Series</b>
+
+<br/><br/>
+
+<sub>Conversations That Inspire</sub>
+
+</td>
+
+<td align="center" width="250">
+
+<h1>🌎 15+</h1>
+
+<b>International Guests</b>
+
+<br/><br/>
+
+<sub>Voices From Around the World</sub>
+
+</td>
+
+<td align="center" width="250">
+
+<h1>👁️ 837K+</h1>
+
+<b>Total Channel Views</b>
+
+<br/><br/>
+
+<sub>Growing Global Community</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C9A7&height=3&section=header" width="85%"/>
+
+<br/>
+
+### 🌍 201+ Episodes • 29 Countries • One Global Tech Family
 
 </div>
 
 <br/>
 
 ## 📊 GitHub Stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=TechSharmit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechSharmit&layout=compact&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechSharmit&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechSharmit&theme=react-dark&hide_border=true" width="100%"/> </div> <br/>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TechSharmit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechSharmit&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TechSharmit&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechSharmit&theme=react-dark&hide_border=true" width="100%"/>
+
+</div>r=TechSharmit&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechSharmit&theme=react-dark&hide_border=true" width="100%"/> </div> <br/>
