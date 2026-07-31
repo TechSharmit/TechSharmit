@@ -253,7 +253,6 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TechSharmit&theme=tokyonight&hide_border=true" />
 
 <br/>
 
