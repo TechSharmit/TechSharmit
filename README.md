@@ -1,0 +1,137 @@
+<!-- =========================================================
+  GITHUB PROFILE README — PROFESSIONAL ANIMATED TEMPLATE
+  Replace every YOUR_... placeholder with your own info.
+  This file goes into a repo named EXACTLY your GitHub username
+  (e.g. github.com/yourusername/yourusername) as README.md
+========================================================= -->
+
+<div align="center">
+
+<!-- Animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hi%20There,%20I'm%20YOUR_NAME&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=YOUR_TAGLINE_HERE&descAlignY=55&descSize=18" width="100%"/>
+
+<!-- Typing animation intro -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Content+Creator+%7C+YOUR_ROLE;YouTube+%40YOUR_CHANNEL_HANDLE;Building+%2F+Teaching+%2F+Creating" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social badges -->
+<a href="https://www.youtube.com/@YOUR_YOUTUBE_HANDLE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+</div>
+
+<br/>
+
+## 🧑‍💻 About Me
+
+- 🔭 Currently working on **YOUR_CURRENT_PROJECT**
+- 🌱 Learning **YOUR_LEARNING_TOPIC**
+- 🎥 I create content on **YouTube** about **YOUR_NICHE**
+- 💬 Ask me about **YOUR_EXPERTISE**
+- 📫 Reach me at **YOUR_EMAIL@example.com**
+- ⚡ Fun fact: **YOUR_FUN_FACT**
+
+<br/>
+
+## 🏆 Awards & Achievements
+
+<div align="center">
+
+| 🥇 Award / Recognition | Year | Issued By |
+|---|---|---|
+| YOUR_AWARD_1 | 2024 | ORGANIZATION_1 |
+| YOUR_AWARD_2 | 2023 | ORGANIZATION_2 |
+| YOUR_AWARD_3 | 2022 | ORGANIZATION_3 |
+
+</div>
+
+> 💡 Tip: You can also show these as animated badges:
+>
+> ```md
+> ![Award](https://img.shields.io/badge/🏆_Best_Creator_Award-2024-gold?style=for-the-badge)
+> ```
+
+<br/>
+
+## ▶️ YouTube Stats
+
+<div align="center">
+
+<!-- Live subscriber count badge (auto-updates) -->
+<img src="https://img.shields.io/youtube/channel/subscribers/YOUR_YOUTUBE_CHANNEL_ID?style=for-the-badge&logo=youtube&label=Subscribers&color=red" />
+<img src="https://img.shields.io/youtube/channel/views/YOUR_YOUTUBE_CHANNEL_ID?style=for-the-badge&logo=youtube&label=Total%20Views&color=red" />
+
+<br/><br/>
+
+<!-- Detailed channel stats card (via youtube-readme-stats) -->
+<img src="https://youtube-readme-stats.vercel.app/api?channel_id=YOUR_YOUTUBE_CHANNEL_ID&theme=dark" width="450" />
+
+</div>
+
+> ℹ️ To get your **Channel ID**: Go to YouTube Studio → Settings → Channel → Advanced settings, or view page source of your channel and search "channelId".
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,figma,premiere,ae&theme=dark" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake (animated)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+> ⚙️ Snake animation apne aap nahi banti — iske liye tumhe apne repo me ek GitHub Action daalni hogi (Platane/snk). Chahiye to main woh workflow file bhi bana sakta hoon.
+
+<br/>
+
+## 🎯 Featured Video / Project
+
+<div align="center">
+
+[![Watch](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+</div>
+
+<br/>
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer" width="100%"/>
+
+<div align="center">
+  <i>⭐ From YOUR_NAME, with love for building & teaching.</i>
+</div>
