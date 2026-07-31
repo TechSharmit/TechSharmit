@@ -230,9 +230,21 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <div align="center">
 
-<img src="https://img.shields.io/youtube/channel/subscribers/UC6DAXn2bIqXevIWowUcYE2w?style=for-the-badge&logo=youtube&label=Subscribers&color=red" />
-<img src="https://img.shields.io/youtube/channel/views/UC6DAXn2bIqXevIWowUcYE2w?style=for-the-badge&logo=youtube&label=Total%20Views&color=red" />
+## ▶️ YouTube Stats
 
+<div align="center">
+
+<a href="https://www.youtube.com/@TechSharmit">
+  <img src="https://youtube-readme-stats.vercel.app/api?channel_id=UC6DAXn2bIqXevIWowUcYE2w&theme=dark" width="500" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.youtube.com/@TechSharmit">
+  <img src="https://img.shields.io/badge/YouTube-Tech%20Sharmit-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+</div>
 <br/><br/>
 
 <img src="https://youtube-readme-stats.vercel.app/api?channel_id=UC6DAXn2bIqXevIWowUcYE2w&theme=dark" width="450" />
