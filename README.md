@@ -60,7 +60,7 @@ Amit is also the host of **The Tech Sharmit Podcast**, where he brings together 
 
 As a strong believer in **knowledge sharing, community, and continuous learning**, Amit actively contributes to the global technology ecosystem through content creation, advocacy, mentoring, and community engagement.
 
-Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudhaiva Kutumbakam” — the world is one family** — and strives to use technology and knowledge to connect people, inspire learning, and strengthen the global IT community.
+Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudhaiva Kutumbakam” - the world is one family** - and strives to use technology and knowledge to connect people, inspire learning, and strengthen the global IT community.
 
 **#HKHHM**
 
@@ -68,7 +68,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <br/>
 
-## 📚 Tech Sharmit Digital Course Book
+## 📚 The Tech Sharmit Digital Course Book
 
 <div align="center">
 
