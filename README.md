@@ -60,7 +60,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <img src="https://img.shields.io/badge/2%C3%97-Google%20Developer%20Expert-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
-**Google Developer Expert**
+**2-Times Awarded**
 
 `2025 • 2026`
 
@@ -72,7 +72,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <img src="https://img.shields.io/badge/3%C3%97-IBM%20Champion-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" />
 
-**IBM Champion**
+**3-Times Awarded**
 
 `2024 • 2025 • 2026`
 
@@ -84,7 +84,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <img src="https://img.shields.io/badge/3%C3%97-Microsoft%20MVP-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
 
-**Microsoft MVP**
+**3-Times Awarded**
 
 `2024 • 2025 • 2026`
 
@@ -100,7 +100,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <img src="https://img.shields.io/badge/2%C3%97-Planet%20Mainframe%20Influencer-8E44AD?style=for-the-badge" />
 
-**Influential Mainframer**
+**2-Times Awarded**
 
 `2025 • 2026`
 
@@ -112,7 +112,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <img src="https://img.shields.io/badge/4%C3%97-IBM%20Advocate-1261A0?style=for-the-badge&logo=ibm&logoColor=white" />
 
-**IBM Advocate**
+**4-Times Awarded**
 
 `2023 • 2024 • 2025 • 2026`
 
@@ -124,7 +124,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <img src="https://img.shields.io/badge/4%C3%97-IBM%20Contributor-198754?style=for-the-badge&logo=ibm&logoColor=white" />
 
-**IBM Contributor**
+**4-Times Awarded**
 
 `2023 • 2024 • 2025 • 2026`
 
@@ -140,7 +140,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <img src="https://img.shields.io/badge/4%C3%97-IBM%20Influencer-F28C28?style=for-the-badge&logo=ibm&logoColor=white" />
 
-**IBM Influencer**
+**4-Times Awarded**
 
 `2023 • 2024 • 2025 • 2026`
 
@@ -152,7 +152,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <img src="https://img.shields.io/badge/1%C3%97-IBM%20Bob%20Advocate-F5C518?style=for-the-badge&logo=ibm&logoColor=white" />
 
-**IBM Bob Advocate**
+**1-Times Awarded**
 
 `2026`
 
@@ -164,7 +164,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <img src="https://img.shields.io/badge/1%C3%97-IBM%20i%20Community%20Influencer-795548?style=for-the-badge&logo=ibm&logoColor=white" />
 
-**IBM i Community Influencer**
+**1-Times Awarded**
 
 `2023`
 
@@ -180,7 +180,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <img src="https://img.shields.io/badge/1%C3%97-IBM%20i%20Community%20Advocate-0072CE?style=for-the-badge&logo=ibm&logoColor=white" />
 
-**IBM i Community Advocate**
+**1-Times Awarded**
 
 `2023`
 
@@ -192,7 +192,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <img src="https://img.shields.io/badge/1%C3%97-IBM%20i%20Community%20Contributor-20A464?style=for-the-badge&logo=ibm&logoColor=white" />
 
-**IBM i Community Contributor**
+**1-Times Awarded**
 
 `2023`
 
@@ -204,7 +204,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <img src="https://img.shields.io/badge/1%C3%97-Power%20Rising%20Star-24292F?style=for-the-badge&logo=ibm&logoColor=white" />
 
-**TechChannel IBM Power Rising Star**
+**1-Times Awarded**
 
 `2022`
 
