@@ -5,7 +5,7 @@
 
 <!-- Typing animation intro -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=1E90FF&center=true&vCenter=true&width=750&lines=Amit+Sharma+%F0%9F%91%8B;Google+Developer+Expert+%F0%9F%8F%86;IBM+Champion+%F0%9F%8F%86;Microsoft+MVP+%F0%9F%8F%86;Planet+Mainframe+Influencer+%F0%9F%8F%86;IBM+Advocate+%F0%9F%8F%86;IBM+Contributor+%F0%9F%8F%86;IBM+Influencer+%F0%9F%8F%86;IBM+i+Community+Influencer+%F0%9F%8F%86;YouTube+%40TechSharmit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=1E90FF&center=true&vCenter=true&width=750&lines=Amit+Sharma+(Sharmit)+%F0%9F%91%8B;Google+Developer+Expert+%F0%9F%8F%86;IBM+Champion+%F0%9F%8F%86;Microsoft+MVP+%F0%9F%8F%86;Planet+Mainframe+Influencer+%F0%9F%8F%86;IBM+Advocate+%F0%9F%8F%86;IBM+Contributor+%F0%9F%8F%86;IBM+Influencer+%F0%9F%8F%86;IBM+i+Community+Influencer+%F0%9F%8F%86;YouTube+%40TechSharmit" alt="Typing SVG" />
 </a>
 
 <br/>
