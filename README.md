@@ -45,9 +45,21 @@
 
 | 🥇 Award / Recognition | Year | Issued By |
 |---|---|---|
-| YOUR_AWARD_1 | 2024 | ORGANIZATION_1 |
-| YOUR_AWARD_2 | 2023 | ORGANIZATION_2 |
-| YOUR_AWARD_3 | 2022 | ORGANIZATION_3 |
+| Google Developer Expert | 2025, 2026 | Google |
+| IBM Champion | 2024, 2025, 2026 | IBM |
+| Microsoft MVP | 2024, 2025, 2026 | Microsoft MVP |
+| Planet Mainframe Influencer | 2025, 2026 | Planet Mainframe |
+| IBM Advocate | 2023, 2024, 2025, 2026 | IBM |
+| IBM Contributor | 2023, 2024, 2025, 2026 | IBM |
+| IBM Influencer  | 2023, 2024, 2025, 2026 | IBM |
+| IBM Bob Advocate  | 2026 | IBM |
+| IBM i Community Influencer | 2023 | IBM |
+| IBM i Community Advocate | 2023 | IBM |
+| IBM i Community Contributor | 2023 | IBM |
+| TechChannel IBM Power Rising Star| 2022 | IBM |
+
+
+
 
 </div>
 
