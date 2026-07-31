@@ -79,9 +79,9 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 <h2>🎓 Expand Your Tech Knowledge!</h2>
 
 <p>
-Explore the <b>#TechSharmitDigitalCourseBook</b> — a growing collection of
+Explore the <b>#TechSharmitDigitalCourseBook</b> - a growing collection of
 <b>thousands of technology tutorials</b> available in both
-<b>Hindi 🇮🇳</b> and <b>English 🌎</b>.
+<b>Hindi </b> and <b>English </b>.
 </p>
 
 
