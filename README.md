@@ -63,26 +63,19 @@
 
 </div>
 
-> 💡 Tip: You can also show these as animated badges:
->
-> ```md
-> ![Award](https://img.shields.io/badge/🏆_Best_Creator_Award-2024-gold?style=for-the-badge)
-> ```
-
 <br/>
 
 ## ▶️ YouTube Stats
 
 <div align="center">
 
-<!-- Live subscriber count badge (auto-updates) -->
-<img src="https://img.shields.io/youtube/channel/subscribers/YOUR_YOUTUBE_CHANNEL_ID?style=for-the-badge&logo=youtube&label=Subscribers&color=red" />
-<img src="https://img.shields.io/youtube/channel/views/YOUR_YOUTUBE_CHANNEL_ID?style=for-the-badge&logo=youtube&label=Total%20Views&color=red" />
+<img src="https://img.shields.io/youtube/channel/subscribers/UC6DAXn2bIqXevIWowUcYE2w?style=for-the-badge&logo=youtube&label=Subscribers&color=red" />
+<img src="https://img.shields.io/youtube/channel/views/UC6DAXn2bIqXevIWowUcYE2w?style=for-the-badge&logo=youtube&label=Total%20Views&color=red" />
 
 <br/><br/>
 
 <!-- Detailed channel stats card (via youtube-readme-stats) -->
-<img src="https://youtube-readme-stats.vercel.app/api?channel_id=YOUR_YOUTUBE_CHANNEL_ID&theme=dark" width="450" />
+<img src="https://youtube-readme-stats.vercel.app/api?channel_id=UC6DAXn2bIqXevIWowUcYE2w&theme=dark" width="450" />
 
 </div>
 
@@ -94,16 +87,16 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TechSharmit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechSharmit&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TechSharmit&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechSharmit&theme=react-dark&hide_border=true" width="100%"/>
 
 </div>
 
@@ -123,7 +116,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/TechSharmit/TechSharmit/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
