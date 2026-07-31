@@ -375,9 +375,9 @@ Explore the <b>#TechSharmitDigitalCourseBook</b> - a growing collection of
 
 <td align="center" width="250">
 
-<h1>🌎 15+</h1>
+<h1>🌎 29+</h1>
 
-<b>International Guests</b>
+<b>Countries Covered</b>
 
 <br/><br/>
 
