@@ -34,9 +34,9 @@
 
 **Amit Sharma, globally known as Tech Sharmit,** is a passionate technology educator, content creator, and community advocate dedicated to making technology accessible to IT professionals, developers, and students around the world.
 
-Through the **Tech Sharmit** YouTube channel, Amit has built a growing library of **3,000+ videos** covering a broad spectrum of technologies, including **Web Development, Angular, COBOL, IBM i, Mainframe technologies, and programming languages**. His content has reached audiences across **75+ countries**, making Tech Sharmit a trusted destination for practical, educational, and industry-focused technology content.
+Through the **Tech Sharmit** YouTube channel, Amit has built a growing library of **3,800+ videos** covering a broad spectrum of technologies, including **Web Development, Angular, COBOL, IBM i, Mainframe technologies, and programming languages**. His content has reached audiences across **75+ countries**, making Tech Sharmit a trusted destination for practical, educational, and industry-focused technology content.
 
-Amit is also the host of **The Tech Sharmit Podcast**, where he brings together thought leaders, technology experts, developers, and innovators from across the globe. With **100+ published episodes and guests from 29 countries**, the podcast explores the people, ideas, technologies, and stories shaping the future of the IT industry.
+Amit is also the host of **The Tech Sharmit Podcast**, where he brings together thought leaders, technology experts, developers, and innovators from across the globe. With **200+ published episodes and guests from 29 countries**, the podcast explores the people, ideas, technologies, and stories shaping the future of the IT industry.
 
 As a strong believer in **knowledge sharing, community, and continuous learning**, Amit actively contributes to the global technology ecosystem through content creation, advocacy, mentoring, and community engagement.
 
