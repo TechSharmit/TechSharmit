@@ -47,8 +47,6 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <br/>
 
-## 🏆 Awards & Achievements
-
 ## 🏆 Awards & Recognitions
 
 <div align="center">
