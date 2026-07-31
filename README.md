@@ -49,99 +49,182 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 ## 🏆 Awards & Recognitions
 
+## 🏆 Awards & Recognitions
+
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Recognized+Across+the+Global+Tech+Community+%F0%9F%8C%8D;Google+Developer+Expert+%F0%9F%8F%86;3%C3%97+IBM+Champion+%F0%9F%8F%86;3%C3%97+Microsoft+MVP+%F0%9F%8F%86;2%C3%97+Planet+Mainframe+Influencer+%F0%9F%8C%9F" />
-
-<br/>
 
 <table>
 <tr>
-<td align="center" width="220">
-  <img src="https://img.shields.io/badge/3%C3%97-IBM%20Champion-6C63FF?style=for-the-badge&logo=ibm&logoColor=white" />
-  <br/><br/>
-  <sub><b>2024 • 2025 • 2026</b></sub>
+
+<td align="center" width="250">
+
+### 🔵 Google
+
+<img src="https://img.shields.io/badge/2%C3%97-Google%20Developer%20Expert-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+**Google Developer Expert**
+
+`2025 • 2026`
+
 </td>
 
-<td align="center" width="220">
-  <img src="https://img.shields.io/badge/3%C3%97-Microsoft%20MVP-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <br/><br/>
-  <sub><b>2024 • 2025 • 2026</b></sub>
+<td align="center" width="250">
+
+### 🔷 IBM
+
+<img src="https://img.shields.io/badge/3%C3%97-IBM%20Champion-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" />
+
+**IBM Champion**
+
+`2024 • 2025 • 2026`
+
 </td>
 
-<td align="center" width="220">
-  <img src="https://img.shields.io/badge/2%C3%97-Google%20Developer%20Expert-EA4335?style=for-the-badge&logo=google&logoColor=white" />
-  <br/><br/>
-  <sub><b>2025 • 2026</b></sub>
+<td align="center" width="250">
+
+### 🟦 Microsoft
+
+<img src="https://img.shields.io/badge/3%C3%97-Microsoft%20MVP-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+**Microsoft MVP**
+
+`2024 • 2025 • 2026`
+
 </td>
+
 </tr>
 
 <tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/2%C3%97-Planet%20Mainframe%20Influencer-111111?style=for-the-badge" />
-  <br/><br/>
-  <sub><b>2025 • 2026</b></sub>
+
+<td align="center" width="250">
+
+### 🟣 Mainframe
+
+<img src="https://img.shields.io/badge/2%C3%97-Planet%20Mainframe%20Influencer-8E44AD?style=for-the-badge" />
+
+**Influential Mainframer**
+
+`2025 • 2026`
+
 </td>
 
-<td align="center">
-  <img src="https://img.shields.io/badge/4%C3%97-IBM%20Advocate-6C63FF?style=for-the-badge&logo=ibm&logoColor=white" />
-  <br/><br/>
-  <sub><b>2023 • 2024 • 2025 • 2026</b></sub>
+<td align="center" width="250">
+
+### 🔵 IBM Advocate
+
+<img src="https://img.shields.io/badge/4%C3%97-IBM%20Advocate-1261A0?style=for-the-badge&logo=ibm&logoColor=white" />
+
+**IBM Advocate**
+
+`2023 • 2024 • 2025 • 2026`
+
 </td>
 
-<td align="center">
-  <img src="https://img.shields.io/badge/4%C3%97-IBM%20Contributor-6C63FF?style=for-the-badge&logo=ibm&logoColor=white" />
-  <br/><br/>
-  <sub><b>2023 • 2024 • 2025 • 2026</b></sub>
+<td align="center" width="250">
+
+### 🟢 IBM Contributor
+
+<img src="https://img.shields.io/badge/4%C3%97-IBM%20Contributor-198754?style=for-the-badge&logo=ibm&logoColor=white" />
+
+**IBM Contributor**
+
+`2023 • 2024 • 2025 • 2026`
+
 </td>
+
 </tr>
 
 <tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/4%C3%97-IBM%20Influencer-6C63FF?style=for-the-badge&logo=ibm&logoColor=white" />
-  <br/><br/>
-  <sub><b>2023 • 2024 • 2025 • 2026</b></sub>
+
+<td align="center" width="250">
+
+### 🟠 IBM Influencer
+
+<img src="https://img.shields.io/badge/4%C3%97-IBM%20Influencer-F28C28?style=for-the-badge&logo=ibm&logoColor=white" />
+
+**IBM Influencer**
+
+`2023 • 2024 • 2025 • 2026`
+
 </td>
 
-<td align="center">
-  <img src="https://img.shields.io/badge/1%C3%97-IBM%20Bob%20Advocate-6C63FF?style=for-the-badge&logo=ibm&logoColor=white" />
-  <br/><br/>
-  <sub><b>2026</b></sub>
+<td align="center" width="250">
+
+### 🟡 IBM Bob
+
+<img src="https://img.shields.io/badge/1%C3%97-IBM%20Bob%20Advocate-F5C518?style=for-the-badge&logo=ibm&logoColor=white" />
+
+**IBM Bob Advocate**
+
+`2026`
+
 </td>
 
-<td align="center">
-  <img src="https://img.shields.io/badge/1%C3%97-IBM%20i%20Community%20Influencer-6C63FF?style=for-the-badge&logo=ibm&logoColor=white" />
-  <br/><br/>
-  <sub><b>2023</b></sub>
+<td align="center" width="250">
+
+### 🟤 IBM i
+
+<img src="https://img.shields.io/badge/1%C3%97-IBM%20i%20Community%20Influencer-795548?style=for-the-badge&logo=ibm&logoColor=white" />
+
+**IBM i Community Influencer**
+
+`2023`
+
 </td>
+
 </tr>
 
 <tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/1%C3%97-IBM%20i%20Community%20Advocate-6C63FF?style=for-the-badge&logo=ibm&logoColor=white" />
-  <br/><br/>
-  <sub><b>2023</b></sub>
+
+<td align="center" width="250">
+
+### 🟦 IBM i
+
+<img src="https://img.shields.io/badge/1%C3%97-IBM%20i%20Community%20Advocate-0072CE?style=for-the-badge&logo=ibm&logoColor=white" />
+
+**IBM i Community Advocate**
+
+`2023`
+
 </td>
 
-<td align="center">
-  <img src="https://img.shields.io/badge/1%C3%97-IBM%20i%20Community%20Contributor-6C63FF?style=for-the-badge&logo=ibm&logoColor=white" />
-  <br/><br/>
-  <sub><b>2023</b></sub>
+<td align="center" width="250">
+
+### 🟩 IBM i
+
+<img src="https://img.shields.io/badge/1%C3%97-IBM%20i%20Community%20Contributor-20A464?style=for-the-badge&logo=ibm&logoColor=white" />
+
+**IBM i Community Contributor**
+
+`2023`
+
 </td>
 
-<td align="center">
-  <img src="https://img.shields.io/badge/1%C3%97-TechChannel%20IBM%20Power%20Rising%20Star-111111?style=for-the-badge&logo=ibm&logoColor=white" />
-  <br/><br/>
-  <sub><b>2022</b></sub>
+<td align="center" width="250">
+
+### ⚫ TechChannel
+
+<img src="https://img.shields.io/badge/1%C3%97-Power%20Rising%20Star-24292F?style=for-the-badge&logo=ibm&logoColor=white" />
+
+**TechChannel IBM Power Rising Star**
+
+`2022`
+
 </td>
+
 </tr>
+
 </table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="85%" />
 
 <br/>
+
+### 🏅 31 Recognition Instances • 2022–2026
+
+</div>
 
 ### 🌟 25+ Recognitions Across 5+ Years
 
