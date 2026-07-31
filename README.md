@@ -220,7 +220,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <br/>
 
-### 🏅 27 Recognition Instances • 2022–2026
+### 🌐 27 Global Technology Awards & Recognitions
 
 </div>
 
