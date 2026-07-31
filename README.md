@@ -56,7 +56,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <td align="center" width="250">
 
-### 🔵 Awarded by Google
+### 🔵 Google
 
 <img src="https://img.shields.io/badge/2%C3%97-Google%20Developer%20Expert-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
@@ -108,7 +108,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <td align="center" width="250">
 
-### 🔵 IBM Advocate
+### 🔵 IBM 
 
 <img src="https://img.shields.io/badge/4%C3%97-IBM%20Advocate-1261A0?style=for-the-badge&logo=ibm&logoColor=white" />
 
@@ -120,7 +120,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <td align="center" width="250">
 
-### 🟢 IBM Contributor
+### 🟢 IBM 
 
 <img src="https://img.shields.io/badge/4%C3%97-IBM%20Contributor-198754?style=for-the-badge&logo=ibm&logoColor=white" />
 
@@ -136,7 +136,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <td align="center" width="250">
 
-### 🟠 IBM Influencer
+### 🟠 IBM 
 
 <img src="https://img.shields.io/badge/4%C3%97-IBM%20Influencer-F28C28?style=for-the-badge&logo=ibm&logoColor=white" />
 
@@ -148,7 +148,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <td align="center" width="250">
 
-### 🟡 IBM Bob
+### 🟡 IBM 
 
 <img src="https://img.shields.io/badge/1%C3%97-IBM%20Bob%20Advocate-F5C518?style=for-the-badge&logo=ibm&logoColor=white" />
 
@@ -160,7 +160,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <td align="center" width="250">
 
-### 🟤 IBM i
+### 🟤 IBM
 
 <img src="https://img.shields.io/badge/1%C3%97-IBM%20i%20Community%20Influencer-795548?style=for-the-badge&logo=ibm&logoColor=white" />
 
@@ -176,7 +176,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <td align="center" width="250">
 
-### 🟦 IBM i
+### 🟦 IBM
 
 <img src="https://img.shields.io/badge/1%C3%97-IBM%20i%20Community%20Advocate-0072CE?style=for-the-badge&logo=ibm&logoColor=white" />
 
@@ -188,7 +188,7 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <td align="center" width="250">
 
-### 🟩 IBM i
+### 🟩 IBM
 
 <img src="https://img.shields.io/badge/1%C3%97-IBM%20i%20Community%20Contributor-20A464?style=for-the-badge&logo=ibm&logoColor=white" />
 
