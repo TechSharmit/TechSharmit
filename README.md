@@ -1,19 +1,9 @@
-<!-- =========================================================
-  GITHUB PROFILE README — PROFESSIONAL ANIMATED TEMPLATE
-  Replace every YOUR_... placeholder with your own info.
-  This file goes into a repo named EXACTLY your GitHub username
-  (e.g. github.com/yourusername/yourusername) as README.md
-========================================================= -->
-
 <div align="center">
 
 <!-- Animated wave banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hi%20There,%20I'm%20Amit Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Didn't do a thing, It's all Krishna's Divine Plan!_HERE&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Typing animation intro -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Content+Creator+%7C+YOUR_ROLE;YouTube+%40@TechSharmit;Building+%2F+Teaching+%2F+Creating" alt="Typing SVG" />
-</a>
+<!-- Typing animation intro --> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=6C63FF&center=true&vCenter=true&width=750&lines=Amit+Sharma+%F0%9F%91%8B;Google+Developer+Expert+%F0%9F%8F%86;IBM+Champion+%7C+Microsoft+MVP;Planet+Mainframe+Influencer;IBM+Advocate+%7C+Contributor+%7C+Influencer;YouTube+%40TechSharmit" alt="Typing SVG" />
 
 <br/>
 
@@ -58,9 +48,6 @@
 | IBM i Community Contributor | 2023 | IBM |
 | TechChannel IBM Power Rising Star| 2022 | IBM |
 
-
-
-
 </div>
 
 <br/>
@@ -74,12 +61,9 @@
 
 <br/><br/>
 
-<!-- Detailed channel stats card (via youtube-readme-stats) -->
 <img src="https://youtube-readme-stats.vercel.app/api?channel_id=UC6DAXn2bIqXevIWowUcYE2w&theme=dark" width="450" />
 
 </div>
-
-> ℹ️ To get your **Channel ID**: Go to YouTube Studio → Settings → Channel → Advanced settings, or view page source of your channel and search "channelId".
 
 <br/>
 
@@ -101,14 +85,3 @@
 </div>
 
 <br/>
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,figma,premiere,ae&theme=dark" />
-
-</div>
-
-<br/>
-
