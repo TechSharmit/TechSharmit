@@ -8,21 +8,21 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hi%20There,%20I'm%20YOUR_NAME&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=YOUR_TAGLINE_HERE&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hi%20There,%20I'm%20Amit Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Didn't do a thing, It's all Krishna's Divine Plan!_HERE&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation intro -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Content+Creator+%7C+YOUR_ROLE;YouTube+%40YOUR_CHANNEL_HANDLE;Building+%2F+Teaching+%2F+Creating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Content+Creator+%7C+YOUR_ROLE;YouTube+%40@TechSharmit;Building+%2F+Teaching+%2F+Creating" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social badges -->
-<a href="https://www.youtube.com/@YOUR_YOUTUBE_HANDLE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.youtube.com/@TechSharmit"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/techsharmit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://instagram.com/tech.sharmit"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://x.com/TSharmit"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="mailto:techsharmit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
 
@@ -34,7 +34,7 @@
 - 🌱 Learning **YOUR_LEARNING_TOPIC**
 - 🎥 I create content on **YouTube** about **YOUR_NICHE**
 - 💬 Ask me about **YOUR_EXPERTISE**
-- 📫 Reach me at **YOUR_EMAIL@example.com**
+- 📫 Reach me at **techsharmit@gmail.com**
 - ⚡ Fun fact: **YOUR_FUN_FACT**
 
 <br/>
@@ -133,5 +133,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer" width="100%"/>
 
 <div align="center">
-  <i>⭐ From YOUR_NAME, with love for building & teaching.</i>
+  <i>⭐ From Amit Sharma, with love for building & teaching.</i>
 </div>
