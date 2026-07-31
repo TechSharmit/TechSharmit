@@ -245,8 +245,8 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 ## 📊 GitHub Stats
 
 <div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TechSharmit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechSharmit&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
