@@ -84,47 +84,6 @@ Explore the <b>#TechSharmitDigitalCourseBook</b> — a growing collection of
 <b>Hindi 🇮🇳</b> and <b>English 🌎</b>.
 </p>
 
-<table>
-<tr>
-
-<td align="center" width="250">
-
-<h2>📚 Thousands</h2>
-
-<b>Technology Tutorials</b>
-
-<br/><br/>
-
-<sub>Practical & Knowledge-Focused Content</sub>
-
-</td>
-
-<td align="center" width="250">
-
-<h2>🇮🇳 Hindi</h2>
-
-<b>Learn in Hindi</b>
-
-<br/><br/>
-
-<sub>Technology Made Accessible</sub>
-
-</td>
-
-<td align="center" width="250">
-
-<h2>🌎 English</h2>
-
-<b>Learn in English</b>
-
-<br/><br/>
-
-<sub>Global Technology Resources</sub>
-
-</td>
-
-</tr>
-</table>
 
 <br/>
 
