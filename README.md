@@ -112,31 +112,3 @@
 
 <br/>
 
-## 🐍 Contribution Snake (animated)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TechSharmit/TechSharmit/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-> ⚙️ Snake animation apne aap nahi banti — iske liye tumhe apne repo me ek GitHub Action daalni hogi (Platane/snk). Chahiye to main woh workflow file bhi bana sakta hoon.
-
-<br/>
-
-## 🎯 Featured Video / Project
-
-<div align="center">
-
-[![Watch](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-</div>
-
-<br/>
-
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer" width="100%"/>
-
-<div align="center">
-  <i>⭐ From Amit Sharma, with love for building & teaching.</i>
-</div>
