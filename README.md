@@ -226,6 +226,8 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <br/>
 
+dark&hide_border=true" width="100%"/> </div> <br/>
+
 ## ▶️ YouTube Stats
 
 <div align="center">
@@ -324,4 +326,4 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechSharmit&theme=react-dark&hide_border=true" width="100%"/>
 
-</div>r=TechSharmit&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechSharmit&theme=react-dark&hide_border=true" width="100%"/> </div> <br/>
+</div>
