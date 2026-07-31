@@ -226,8 +226,6 @@ Being proudly **Bhartiya**, Amit embraces the timeless philosophy of **“Vasudh
 
 <br/>
 
-dark&hide_border=true" width="100%"/> </div> <br/>
-
 ## ▶️ YouTube Stats
 
 <div align="center">
